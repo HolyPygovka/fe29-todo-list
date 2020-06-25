@@ -4,7 +4,7 @@ import SearchBlock from './components/SearchBlock';
 
 const Header = () => {
   const st = {
-    fontSize: '40px',
+    fontSize: '45px',
     color: 'aqua'
   }
   return <h1 style={st} className="Header">Todo List</h1>;
